@@ -17,7 +17,7 @@ import org.w3c.dom.Element;
 
 public class XMLGenerator {
     public static void main(String[] args) {
-        String path = "C:\\Users\\greda\\Desktop\\ISTE-121\\maymester\\group project\\gp1\\src";
+        String path = "src/";
         List<String> javaFiles = getJavaFiles(path);
 
         DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
