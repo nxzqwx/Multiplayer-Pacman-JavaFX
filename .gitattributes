@@ -1,2 +1,4 @@
-docs/** linguist-documentation
+src/JAVADOC/** linguist-documentation
 *.html linguist-detectable=false
+*.css linguist-detectable=false
+*.js linguist-detectable=false
