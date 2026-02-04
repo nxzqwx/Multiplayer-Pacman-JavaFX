@@ -1,0 +1,15 @@
+# Ignoriraj kompajlirane Java klase
+*.class
+
+# Ignoriraj folder u kojem IDE sprema postavke
+.settings/
+.project
+.classpath
+bin/
+
+# Ignoriraj privremene datoteke operativnog sustava
+Thumbs.db
+.DS_Store
+
+# Ignoriraj tvoje lokalne XML generirane liste (ako ne želiš da se stalno mijenjaju na gitu)
+java_files.xml
